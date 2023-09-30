@@ -31,3 +31,15 @@
    ![image](https://github.com/CodeWizardRakesh/Hand-Written-Number-Recognition/assets/143873585/464e115a-34c1-4489-8633-5867982c630f)
 
 
+## Graphical User Interface
+-I've used Tkinter for creating a simple and aesthetic GUI which makes the application user friendly.
+
+## Project Results
+![image](https://github.com/CodeWizardRakesh/Hand-Written-Number-Recognition/assets/143873585/a7007019-b6f5-41f4-83a7-ace8db65db51)
+
+
+![image](https://github.com/CodeWizardRakesh/Hand-Written-Number-Recognition/assets/143873585/5f6d1b18-c5e0-41b8-b4b6-913f15d83346)
+
+
+
+
