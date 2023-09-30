@@ -14,5 +14,20 @@
 
 
  
-## Peception:
-	the way the information is organised,interpreted and consciously experienced.
+## How it was made?
+- This project utilizes the CNN (Convolutional Neural Network) algorithm.
+- Feature Extraction.
+- The neural network architecture includes:
+  - An input layer.
+  - Two dense layers.
+  - An output layer containing 10 neurons.
+- The model is trained using the ***MNIST dataset***, which comprises 60,000 handwritten single-digit numbers.
+- Image pixels are converted into arrays and fed into the input layer neurons.
+- The output layer provides the probabilities for each digit.
+- The predicted number corresponds to the neuron with the highest probability.
+
+
+
+   ![image](https://github.com/CodeWizardRakesh/Hand-Written-Number-Recognition/assets/143873585/464e115a-34c1-4489-8633-5867982c630f)
+
+
