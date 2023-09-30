@@ -1,2 +1,2 @@
 # Hand-Written-Number-Recognition
-   This is built using Tensroflow
+   This is built using Tensorflow
