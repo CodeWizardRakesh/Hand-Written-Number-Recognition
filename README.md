@@ -1,5 +1,5 @@
 # Hand-Written-Number-Recognition
-   This is built using Tensorflow
+   Welcome to the Handwritten Number Recognition project! This project is designed to recognize and classify handwritten digits using DeepLearning techniques and a user-friendly graphical interface.
 
 ## turing test:
 	if an interrogator cannot distinguish between machine and a human then the machine is assumed to be intelligent.
