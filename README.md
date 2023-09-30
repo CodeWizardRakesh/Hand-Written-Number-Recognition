@@ -32,7 +32,7 @@
 
 
 ## Graphical User Interface
--I've used Tkinter for creating a simple and aesthetic GUI which makes the application user friendly.
+- I've used Tkinter for creating a simple and aesthetic GUI which makes the application user friendly.
 
 ## Project Results
 ![image](https://github.com/CodeWizardRakesh/Hand-Written-Number-Recognition/assets/143873585/a7007019-b6f5-41f4-83a7-ace8db65db51)
