@@ -9,7 +9,7 @@
   - We call it Artificial Intelligence.
   - This is achieved by Deep Learning, which is a subset of Machine Learning.
   - It also involves Computer Vision.
-
+-**This is a simple project which uses computer vision to recognize and understand the single digit number written by a Human.
 
 
 
