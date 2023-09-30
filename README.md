@@ -40,8 +40,8 @@
 
 ![image](https://github.com/CodeWizardRakesh/Hand-Written-Number-Recognition/assets/143873585/5f6d1b18-c5e0-41b8-b4b6-913f15d83346)
 
-Thank you for taking the time to explore our Handwritten Number Recognition project
-I hope that you found this project both informative and engaging.
+****Thank you for taking the time to explore our Handwritten Number Recognition project
+I hope that you found this project both informative and engaging.****
 
 
 
