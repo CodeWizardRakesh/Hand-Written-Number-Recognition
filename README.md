@@ -3,7 +3,12 @@
 
 
 ## What's it all about
-	if an interrogator cannot distinguish between machine and a human then the machine is assumed to be intelligent.
+We understand words and numbers through our natural human intelligence.
+ The signals from the eyes are processed by neurons of the brain along with the memory stored by learning things from past.
+Similarly, a computer can also be trained to recognise the number ,words and animals etc by itself!. We call it Artificial Intelligence.
+This is achieved by Deep Learning which is subset of Machine learning and also using the Computer Vision.
 
+
+ 
 ## Peception:
 	the way the information is organised,interpreted and consciously experienced.
